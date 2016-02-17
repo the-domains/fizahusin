@@ -1,0 +1,28 @@
+name: Fiza
+favicon: null
+layout_spectrum: 0.9459200205747038
+typography_spectrum: 0.6233760865870863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.054587082704529166
+  lightness: 0.5267374031245708
+  saturation: 0.014614772982895374
+  rhythmicContrast: 0.9813040629960597
+purpose: []
